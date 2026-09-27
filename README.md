@@ -16,4 +16,19 @@ docker compose up
 
 ## Objetivo
 
+Crear una plataforma para analizar datos turísticos.
 Analizar demanda turística y crear cuadros de mando.
+
+## Estructura
+
+datasets:
+Datos utilizados en el proyecto.
+
+scripts:
+Programas Python.
+
+notebooks:
+Análisis realizados.
+
+docs:
+Documentación.
