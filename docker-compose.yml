@@ -1,20 +1,45 @@
-version: "3.8"
-
 services:
 
   jupyter:
-    image: jupyter/scipy-notebook
+    image: jupyter/datascience-notebook
     container_name: smarttour-jupyter
     ports:
       - "8888:8888"
-
     volumes:
-      - ./notebooks:/home/jovyan/work
-      - ./datasets:/home/jovyan/datasets
-
+      - ./:/home/jovyan/smarttour
     environment:
       - JUPYTER_ENABLE_LAB=yes
-
     command:
       start-notebook.sh
       --NotebookApp.token=''
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:17
+    container_name: smarttour-postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: smarttour
+      POSTGRES_PASSWORD: smarttour123
+      POSTGRES_DB: smarttour_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./:/smarttour
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: smarttour-pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@smarttour.com
+      PGADMIN_DEFAULT_PASSWORD: smarttour
+    ports:
+      - "5050:80"
+    volumes:
+      - ./:/smarttour
+    depends_on:
+      - postgres
+
+volumes:
+  postgres_data:
