@@ -1,0 +1,264 @@
+id_oficina,nombre,direccion,telefono,email,horario,municipio,tipo,provincia,tipo_recurso,ambito,cod_ine
+1,Oficina de Turismo de La Adrada,,,,,La Adrada,Oficina de Turismo,Ávila,Información,Municipal,05002
+2,Punto de información turística Museo Histórico Castillo de La Adrada,,,,,La Adrada,Oficina de Turismo,Ávila,,,05002
+3,Oficina de Turismo de El Arenal,,,,,El Arenal,Oficina de Turismo,Ávila,Información,Municipal,05013
+4,Oficina de Turismo de Arenas de San Pedro,,,,,Arenas de San Pedro,Oficina de Turismo,Ávila,Información,Municipal,05014
+5,Oficina de Turismo de Arévalo,,,,,Arévalo,Oficina de Turismo,Ávila,Información,Municipal,05016
+6,Centro de Recepción de Visitantes de Ávila,,,,,Ávila,Centro de Recepción de Visitantes,Ávila,Información,Municipal,05019
+7,Oficina de Información Turística de Ávila,,,,,Ávila,Oficina de Turismo,Ávila,,Regional,05019
+8,Oficina de Turismo de El Barco de Ávila,,,,,El Barco de Ávila,Oficina de Turismo,Ávila,Información,Municipal,05021
+9,Oficina de Turismo de Burgohondo,,,,,Burgohondo,Oficina de Turismo,Ávila,Información,Municipal,05041
+10,Oficina de Turismo de Candeleda,,,,,Candeleda,Oficina de Turismo,Ávila,Información,Municipal,05047
+11,Oficina de Turismo de Cebreros,,,,,Cebreros,Oficina de Turismo,Ávila,Información,Municipal,05057
+12,Oficina de Turismo de Hoyos del Espino,,,,,Hoyos del Espino,Oficina de Turismo,Ávila,Información,Municipal,05105
+13,Oficina de Turismo de Madrigal de las Altas Torres,,,,,Madrigal de las Altas Torres,Oficina de Turismo,Ávila,Información,Municipal,05114
+14,Oficina de Turismo de Mombeltrán,,,,,Mombeltrán,Oficina de Turismo,Ávila,Información,Municipal,05132
+15,Oficina de Turismo de Navaluenga,,,,,Navaluenga,Ayuntamiento,Ávila,Información,Municipal,05163
+16,Oficina de Turismo de Navarredonda,,,,,Navarredonda de Gredos,Oficina de Turismo,Ávila,Información,Municipal,05165
+17,Oficina de Turismo de Navas del Marqués,,,,,Las Navas del Marqués,Oficina de Turismo,Ávila,Información,Municipal,05168
+18,Oficina de Turismo de Pedro Bernardo,,,,,Pedro Bernardo,Oficina de Turismo,Ávila,Información,Municipal,05182
+19,Oficina de Turismo de Peguerinos,,,,,Peguerinos,Oficina de Turismo,Ávila,Información,Municipal,05184
+20,Oficina de Turismo de Piedrahita,,,,,Piedrahíta,Oficina de Turismo,Ávila,Información,Municipal,05186
+21,Oficina de Turismo de Piedralaves,,,,,Piedralaves,Oficina de Turismo,Ávila,Información,Municipal,05187
+22,Oficina de Turismo de Santa María del Berrocal,,,,,Santa María del Berrocal,Oficina de Turismo,Ávila,Información,Municipal,05225
+23,Oficina de Turismo de Sotillo de La Adrada,,,,,Sotillo de la Adrada,Oficina de Turismo,Ávila,Información,Municipal,05240
+24,Oficina de Turismo de El Tiemblo,,,,,El Tiemblo,Oficina de Turismo,Ávila,Información,Municipal,05241
+25,Centro de Visitantes - Oficina de Turismo de Aranda de Duero,,,,,Aranda de Duero,Oficina de Turismo,Burgos,Información,Municipal,09018
+26,Oficina de Turismo de Atapuerca,,,,,Atapuerca,Oficina de Turismo,Burgos,Información,Municipal,09029
+27,Oficina de Turismo Municipal de Belorado,,,,,Belorado,Oficina de Turismo,Burgos,Información,Municipal,09048
+28,Oficina de Turismo Municipal de Briviesca,,,,,Briviesca,Oficina de Turismo,Burgos,Información,Municipal,09056
+29,CITUR (Centro de Recepción de Visitantes) de Burgos,,,,,Burgos,Oficina de Turismo,Burgos,Información,Municipal,09059
+30,Oficina de Información Turística de Burgos,,,,,Burgos,Oficina de Turismo,Burgos,,Regional,09059
+31,Oficina de Turismo de Caleruega,,,,,Caleruega,Oficina de Turismo,Burgos,Información,Municipal,09064
+32,Oficina de Turismo Municipal de Castrojeriz,,,,,Castrojeriz,Oficina de Turismo,Burgos,Información,Municipal,09091
+33,Oficina de Turismo Municipal de Covarrubias,,,,,Covarrubias,Oficina de Turismo,Burgos,Información,Municipal,09113
+34,Oficina de Turismo Municipal de Espinosa de los Monteros,,,,,Espinosa de los Monteros,Oficina de Turismo,Burgos,Información,Municipal,09124
+35,Oficina de Turismo Municipal de Frías,,,,,Frías,Oficina de Turismo,Burgos,Información,Municipal,09134
+36,Oficina de Turismo de la Mancomunidad Ruta del Vino,,,,,La Horra,Oficina de Turismo,Burgos,Información,Municipal,09168
+37,Oficina de Turismo Municipal de Lerma,,,,,Lerma,Oficina de Turismo,Burgos,Información,Municipal,09194
+38,Oficina de Turismo de Medina de Pomar,,,,,Medina de Pomar,Oficina de Turismo,Burgos,Información,Municipal,09209
+39,Oficina de Turismo Municipal de Melgar de Fernamental,,,,,Melgar de Fernamental,Oficina de Turismo,Burgos,Información,Municipal,09211
+40,CIMA (Centro de Interpretación de Miranda Antigua),,,,,Miranda de Ebro,Oficina de Turismo,Burgos,Información,Municipal,09219
+41,Oficina de Turismo Municipal de Miranda de Ebro,,,,,Miranda de Ebro,Oficina de Turismo,Burgos,,Municipal,09219
+42,Oficina de Turismo Municipal de Oña,,,,,Oña,Oficina de Turismo,Burgos,Información,Municipal,09238
+43,Oficina de Turismo Orbaneja del Castillo,,,,,Orbaneja del Castillo (Valle de Sedano),Oficina de Turismo,Burgos,Información,Municipal,09905
+44,Oficina de Turismo Municipal de Peñaranda de Duero,,,,,Peñaranda de Duero,Oficina de Turismo,Burgos,Información,Municipal,09261
+45,Oficina de Turismo Municipal de Poza de la Sal,,,,,Poza de la Sal,Oficina de Turismo,Burgos,Información,Municipal,09272
+46,Oficina de Turismo Municipal de Valle de Tobalina,,,,,Quintana Martín Galindez (Valle de Tobalina),Oficina de Turismo,Burgos,Información,Municipal,09412
+47,Oficina de Turismo Municipal de Quintanar de la Sierra,,,,,Quintanar de la Sierra,Oficina de Turismo,Burgos,Información,Municipal,09289
+48,Caseta de Información Municipal de Redecilla del Camino,,,,,Redecilla del Camino,Oficina de Turismo,Burgos,Información,Municipal,09307
+49,Oficina de Turismo Municipal de Roa,,,,,Roa,Oficina de Turismo,Burgos,Información,Municipal,09321
+50,Oficina de Turismo Municipal de Salas de los Infantes,,,,,Salas de los Infantes,Oficina de Turismo,Burgos,Información,Municipal,09330
+51,Oficina de Turismo Municipal de Sasamón,,,,,Sasamón,Oficina de Turismo,Burgos,Información,Municipal,09363
+52,Oficina de Turismo Municipal de Sedano,,,,,Sedano (Valle de Sedano),Oficina de Turismo,Burgos,Información,Municipal,09905
+53,Oficina de Turismo Municipal de Villadiego,,,,,Villadiego,Oficina de Turismo,Burgos,Información,Municipal,09427
+54,Oficina de Turismo de Villarcayo Merindad de Castilla la Vieja,,,,,Villarcayo (Villarcayo de Merindad de Castilla la Vieja),Oficina de Turismo,Burgos,Información,Municipal,09903
+55,Oficina de Turismo Municipal de Villasana de Mena,,,,,Villasana de Mena (Valle de Mena),Oficina de Turismo,Burgos,Información,Municipal,09410
+56,Oficina de Turismo Municipal de Alija del Infantado,,,,,Alija del Infantado,Oficina de Turismo,León,Información,Municipal,24003
+57,Oficina de Turismo Municipal de Astorga,,,,,Astorga,Oficina de Turismo,León,Información,Municipal,24008
+58,Oficina de Turismo Municipal de La Bañeza,,,,,La Bañeza,Oficina de Turismo,León,Información,Municipal,24010
+59,Oficina de Turismo Municipal de Barrios de Luna,,,,,Los Barrios de Luna,Oficina de Turismo,León,Información,Municipal,24012
+60,Oficina de Turismo Municipal de Bembibre,,,,,Bembibre,Oficina de Turismo,León,Información,Municipal,24014
+61,Oficina de Turismo Municipal de Boca de Huérgano,,,,,Boca de Huérgano,Oficina de Turismo,León,Información,Municipal,24020
+62,Oficina de Turismo Municipal de Boñar,,,,,Boñar,Oficina de Turismo,León,Información,Municipal,24021
+63,Oficina de Turismo de Borrenes,,,,,Borrenes,Oficina de Turismo,León,Información,Municipal,24022
+64,Oficina de Turismo de El Burgo Ranero,,,,,El Burgo Ranero,Oficina de Turismo,León,Información,Municipal,24024
+65,Oficina de Turismo Municipal de Cacabelos,,,,,Cacabelos,Oficina de Turismo,León,Información,Municipal,24030
+66,Oficina de Turismo de Camponaraya,,,,,Camponaraya,Oficina de Turismo,León,Información,Municipal,24034
+67,Oficina de Turismo Municipal de Valle de Ancares,,,,,Candín,Oficina de Turismo,León,Información,Municipal,
+68,Oficina de Turismo de Carracedelo,,,,,Carracedelo,Oficina de Turismo,León,Información,Municipal,24038
+69,Oficina de Turismo de Castrillo de Cabrera,,,,,Castrillo de Cabrera,Oficina de Turismo,León,Información,,24043
+70,Oficina de Turismo de Castrocontrigo,,,,,Castrocontrigo,Oficina de Turismo,León,Información,Municipal,24047
+71,Oficina de Turismo de Cistierna,,,,,Cistierna,Oficina de Turismo,León,Información,Municipal,24056
+72,Oficina de Turismo de Corullón,,,,,Corullón,Oficina de Turismo,León,Información,Municipal,24059
+73,Oficina de Turismo Municipal de Fabero,,,,,Fabero,Oficina de Turismo,León,Información,Municipal,24070
+74,Oficina de Turismo de Gordoncillo,,,,,Gordoncillo,Oficina de Turismo,León,Información,Municipal,24078
+75,Oficina de Turismo Municipal de Gradefes,,,,,Gradefes,Oficina de Turismo,León,Información,Municipal,24079
+76,Oficina de Turismo de Grajal de Campos,,,,,Grajal de Campos,Oficina de Turismo,León,Información,Municipal,24080
+77,Oficina de Información Turística de León,,,,,León,Oficina de Turismo,León,Información,Regional,24089
+78,Oficina de Turismo de Valdelugueros,,,,,Lugueros (Valdelugueros),Oficina de Turismo,León,Información,Municipal,24177
+79,Oficina de Turismo Municipal de Mansillas de las Mulas,,,,,Mansilla de las Mulas,Oficina de Turismo,León,Información,Municipal,24094
+80,Centro de recepción de visitantes de Las Médulas,,,,,Las Médulas (Carucedo),Centro de Recepción de Visitantes,León,Información,Municipal,24041
+81,Oficina de Turismo Municipal de Molinaseca,,,,,Molinaseca,Oficina de Turismo,León,Información,Municipal,24100
+82,Oficina de Turismo de Murias de Paredes,,,,,Murias de Paredes,Oficina de Turismo,León,Información,Municipal,24101
+83,Oficina de Turismo de Nogarejas,,,,,Nogarejas (Castrocontrigo),Oficina de Turismo,León,Información,Municipal,24047
+84,Oficina Municipal de Turismo de Palacios del Sil,,,,,Palacios del Sil,Oficina de Turismo,León,Información,Municipal,24109
+85,Oficina de Turismo Municipal de Peranzanes,,,,,Peranzanes,Oficina de Turismo,León,Información,Municipal,24112
+86,Oficina de Turismo de La Pola de Gordón,,,,,La Pola de Gordón,Oficina de Turismo,León,Información,Municipal,24114
+87,Oficina de Turismo Municipal de Ponferrada,,,,,Ponferrada,Oficina de Turismo,León,Información,Municipal,24115
+88,Centro de Visitantes de Posada de Valdeón,,,,,Posada de Valdeón,Centro de Recepción de Visitantes,León,Información,Municipal,24116
+89,Oficina de Turismo de Posada de Valdeón,,,,,Posada de Valdeón,Oficina de Turismo,León,,Municipal,24116
+90,Oficina de información turística del Parque Nacional de Picos de Europa,,,,,Posada de Valdeón,Oficina de Turismo,León,,Municipal,24116
+91,Oficina de Turismo de Priaranza del Bierzo,,,,,Priaranza del Bierzo,Oficina de Turismo,León,Información,Municipal,24119
+92,Oficina de Turismo de Prioro,,,,,Prioro,Oficina de Turismo,León,Información,Municipal,24120
+93,Oficina de Turismo Municipal de Puebla de Lillo,,,,,Puebla de Lillo,Ayuntamiento,León,Información,Municipal,24121
+94,Oficina de Turismo de Riaño,,,,,Riaño,Oficina de Turismo,León,Información,Municipal,24130
+95,Oficina de Turismo de Riello,,,,,Riello,Oficina de Turismo,León,Información,Municipal,24132
+96,Oficina de Turismo Municipal de La Robla,,,,,La Robla,Oficina de Turismo,León,Información,Municipal,24134
+97,Oficina de Turismo Municipal de Sahagún,,,,,Sahagún,Oficina de Turismo,León,Información,Municipal,24139
+98,Oficina de Turismo Municipal de San Emiliano,,,,,San Emiliano,Oficina de Turismo,León,Información,Municipal,24145
+99,Oficina de Turismo de Santa Colomba de Somoza,,,,,Santa Colomba de Somoza,Oficina de Turismo,León,Información,Municipal,24152
+100,Oficina de Turismo de Truchas,,,,,Truchas,Oficina de Turismo,León,Información,Municipal,24172
+101,Oficina de Turismo de Valderas,,,,,Valderas,Oficina de Turismo,León,Información,Municipal,24181
+102,Oficina de Turismo Municipal de Valencia de Don Juan,,,,,Valencia de Don Juan,Oficina de Turismo,León,Información,Municipal,24188
+103,Oficina de Turismo Municipal de Vega de Espinareda,,,,,Vega de Espinareda,Oficina de Turismo,León,Información,Municipal,24196
+104,Oficina de Turismo Municipal de Villablino,,,,,Villablino,Oficina de Turismo,León,Información,Municipal,24202
+105,Oficina de Turismo de Villadangos del Páramo,,,,,Villadangos del Páramo,Oficina de Turismo,León,Información,Municipal,24205
+106,Oficina de Turismo Municipal de Villafranca del Bierzo,,,,,Villafranca del Bierzo,Oficina de Turismo,León,Información,Municipal,24209
+107,Oficina de Turismo de Villamanín,,,,,Villamanín (Municipio),Oficina de Turismo,León,Información,Municipal,24901
+108,Oficina de Turismo de Mansilla Mayor,,,,,Villaverde de Sandoval (Mansilla Mayor),Oficina de Turismo,León,Información,Municipal,24095
+109,Oficina de Turismo de La Virgen del Camino,,,,,La Virgen del Camino (Valverde de la Virgen),Oficina de Turismo,León,Información,Municipal,24189
+110,Oficina de información Turística de Castilla y León en Madrid,,,,,Madrid,,Madrid,Información,,
+111,Oficina de Turismo Municipal y CIT. de Aguilar de Campoo,,,,,Aguilar de Campoo,Oficina de Turismo,Palencia,Información,Municipal,34004
+112,Oficina de Turismo CIT Alar del Rey,,,,,Alar del Rey,Oficina de Turismo,Palencia,Información,Municipal,34005
+113,"Oficina de turismo municipal de Alar del Rey, Centro de recepción de visitantes del Canal de Castilla",,,,,Alar del Rey,Oficina de Turismo,Palencia,,Municipal,34005
+114,Oficina Municipal de Turismo de Ampudia,,,,,Ampudia,Oficina de Turismo,Palencia,Información,Municipal,34010
+115,Oficina Municipal de Turismo de Astudillo,,,,,Astudillo,Oficina de Turismo,Palencia,Información,Municipal,34017
+116,Oficina de Turismo de Baltanás,,,,,Baltanás,Oficina de Turismo,Palencia,Información,Municipal,34022
+117,Oficina de Turismo Municipal y C.I.T. de Barruelo de Santullán,,,,,Barruelo de Santullán,Oficina de Turismo,Palencia,Información,Municipal,34027
+118,C.I.T. Camino de Santiago,,,,,Carrión de los Condes,Oficina de Turismo,Palencia,Información,Municipal,34047
+119,Oficina Municipal de Turismo de Carrión de los Condes,,,,,Carrión de los Condes,Oficina de Turismo,Palencia,,Municipal,34047
+120,Oficina Comarcal de Turismo de Cervera de Pisuerga,,,,,Cervera de Pisuerga,Oficina de Turismo,Palencia,Información,Municipal,34056
+121,Oficina Municipal de Turismo de Dueñas,,,,,Dueñas,Oficina de Turismo,Palencia,Información,Municipal,34069
+122,Centro de Iniciativas Turísticas de Frómista,,,,,Frómista,Oficina de Turismo,Palencia,Información,Municipal,34074
+123,Oficina Municipal de Turismo de Frómista,,,,,Frómista,Oficina de Turismo,Palencia,,Municipal,34074
+124,Oficina Municipal de Turismo de Fuentes de Nava,,,,,Fuentes de Nava,Oficina de Turismo,Palencia,Información,Municipal,34076
+125,Oficina Municipal de Turismo de Guardo,,,,,Guardo,Oficina de Turismo,Palencia,Información,Municipal,34080
+126,Oficina de Turismo y C.I.T. de Herrera de Pisuerga,,,,,Herrera de Pisuerga,Oficina de Turismo,Palencia,Información,Municipal,34083
+127,Oficina Comarcal de Turismo y C.I.T. Villas del Bajo Carrión y Ucieza,,,,,Monzón de Campos,Oficina de Turismo,Palencia,Información,Municipal,34108
+128,Oficina de Información Turística de Palencia,,,,,Palencia,Oficina de Turismo,Palencia,Información,Regional,34120
+129,Oficina de Turismo de Paredes de Nava,,,,,Paredes de Nava,Oficina de Turismo,Palencia,Información,Municipal,34123
+130,Oficina Municipal de Turismo de Saldaña,,,,,Saldaña,Oficina de Turismo,Palencia,Información,Municipal,34157
+131,"C.I.T. Naturaleza ""Alto Carrión""",,,,,Velilla del Río Carrión,Oficina de Turismo,Palencia,Información,Municipal,34199
+132,Oficina de Turismo Municipal de Velilla,,,,,Velilla del Río Carrión,Oficina de Turismo,Palencia,,Municipal,34199
+133,Oficina de Turismo Municipal de Alba de Tormes,,,,,Alba de Tormes,Oficina de Turismo,Salamanca,Información,Municipal,37008
+134,Oficina de Turismo Municipal de la Alberca,,,,,La Alberca,Oficina de Turismo,Salamanca,Información,Municipal,37010
+135,Oficina de Turismo Municipal de Aldeadávila de la Ribera,,,,,Aldeadávila de la Ribera,Oficina de Turismo,Salamanca,Información,Municipal,37014
+136,Oficina de Turismo Municipal de Barruecopardo,,,,,Barruecopardo,Oficina de Turismo,Salamanca,Información,Municipal,37044
+137,Oficina de Turismo Municipal de Béjar,,,,,Béjar,Oficina de Turismo,Salamanca,Información,Municipal,37046
+138,Oficina de Turismo Municipal de Candelario,,,,,Candelario,Oficina de Turismo,Salamanca,Información,Municipal,37078
+139,Oficina Municipal de Turismo de Ciudad Rodrigo,,,,,Ciudad Rodrigo,Oficina de Turismo,Salamanca,Información,Municipal,37107
+140,Oficina de Turismo en La Fregeneda,,,,,La Fregeneda,Oficina de Turismo,Salamanca,Información,Municipal,37132
+141,Oficina de Turismo Municipal de Guijuelo,,,,,Guijuelo,Oficina de Turismo,Salamanca,Información,Municipal,37156
+142,Oficina de Turismo Municipal de Guijuelo (Museo de Industria Chacinero),,,,,Guijuelo,Oficina de Turismo,Salamanca,,Municipal,37156
+143,Oficina de Turismo Municipal de Ledesma,,,,,Ledesma,Oficina de Turismo,Salamanca,Información,Municipal,37170
+144,Oficina de Turismo Municipal de Linares de Riofrío,,,,,Linares de Riofrío,Oficina de Turismo,Salamanca,Información,Municipal,37172
+145,Centro de Visitantes de Lumbrales,,,,,Lumbrales,Oficina de Turismo,Salamanca,Información,Municipal,37173
+146,Oficina de Turismo Municipal de Macotera,,,,,Macotera,Oficina de Turismo,Salamanca,Información,Municipal,37174
+147,Oficina de Turismo Municipal de Miranda del Castañar,,,,,Miranda del Castañar,Oficina de Turismo,Salamanca,Información,Municipal,37193
+148,Oficina de Turismo Sierra de Francia de Mogarraz,,,,,Mogarraz,Oficina de Turismo,Salamanca,Información,Municipal,37194
+149,Oficina de Turismo de Peñaranda de Bracamonte,,,,,Peñaranda de Bracamonte,Oficina de Turismo,Salamanca,Información,Municipal,37246
+150,Oficina Integrada de Turismo de la Junta de Castilla y León y Ayuntamiento de Salamanca,,,,,Salamanca,Oficina de Turismo,Salamanca,Información,Regional,37274
+151,Oficina Transfronteriza de Saucelle,,,,,Salto de Saucelle (Saucelle),Oficina de Turismo,Salamanca,Información,Municipal,37302
+152,Oficina de Turismo de San Esteban de la Sierra,,,,,San Esteban de la Sierra,Oficina de Turismo,Salamanca,Información,Municipal,37284
+153,Oficina de Turismo Municipal de San Felices de los Gallegos,,,,,San Felices de los Gallegos,Oficina de Turismo,Salamanca,Información,Municipal,37285
+154,Oficina de Turismo Municipal de Trabanca,,,,,Trabanca,Oficina de Turismo,Salamanca,Información,Municipal,37328
+155,Oficina de Turismo de Villarino,,,,,Villarino de los Aires,Oficina de Turismo,Salamanca,Información,Municipal,37364
+156,Oficina de Turismo Municipal de Vilvestre,,,,,Vilvestre,Oficina de Turismo,Salamanca,Información,Municipal,37350
+157,Oficina de Turismo de Vitigudino,,,,,Vitigudino,Oficina de Turismo,Salamanca,Información,Municipal,37376
+158,Oficina de Turismo de Aguilafuente,,,,,Aguilafuente,Oficina de Turismo,Segovia,Información,Municipal,40004
+159,Oficina Municipal de Turismo de Ayllón,,,,,Ayllón,Oficina de Turismo,Segovia,Información,Municipal,40024
+160,Oficina de Turismo de Cantalejo,,,,,Cantalejo,Oficina de Turismo,Segovia,Información,Municipal,40040
+161,Oficina de Turismo de Coca,,,,,Coca,Oficina de Turismo,Segovia,Información,Municipal,40057
+162,Oficina Municipal de Turismo de Cuéllar,,,,,Cuéllar,Oficina de Turismo,Segovia,Información,Municipal,40063
+163,Oficina Municipal de Turismo de El Espinar,,,,,El Espinar,Oficina de Turismo,Segovia,Información,Municipal,40076
+164,Oficina Municipal de Turismo de Maderuelo,,,,,Maderuelo,Oficina de Turismo,Segovia,Información,Municipal,40115
+165,Oficina de Turismo de Martín Muñoz de las Posadas,,,,,Martín Muñoz de las Posadas,Oficina de Turismo,Segovia,Información,Municipal,40121
+166,Oficina de Turismo de Navafría,,,,,Navafría,Oficina de Turismo,Segovia,Información,Municipal,40139
+167,Oficina Municipal de Turismo de Pedraza,,,,,Pedraza,Oficina de Turismo,Segovia,Información,Municipal,40156
+168,Oficina de Turismo de Prádena,,,,,Prádena,Oficina de Turismo,Segovia,Información,Municipal,40162
+169,Oficina Municipal de Turismo de Riaza,,,,,Riaza,Oficina de Turismo,Segovia,Información,Municipal,40170
+170,Oficina Municipal de Turismo del Real Sitio de San Ildefonso,,,,,San Ildefonso O la Granja (San Ildefonso),Oficina de Turismo,Segovia,Información,Municipal,40181
+171,Oficina de Turismo de Santa María La Real de Nieva,,,,,Santa María la Real de Nieva,Oficina de Turismo,Segovia,Información,Municipal,40185
+172,Centro de Recepción de Visitantes de Segovia,,,,,Segovia,Oficina de Turismo,Segovia,Información,Municipal,40194
+173,Prodestur,,,,,Segovia,Oficina de Turismo,Segovia,,Provincial,40194
+174,Oficina Municipal de Turismo de Sepúlveda,,,,,Sepúlveda,Oficina de Turismo,Segovia,Información,Municipal,40195
+175,Oficina de Turismo de Turégano,,,,,Turégano,Oficina de Turismo,Segovia,Información,Municipal,40208
+176,Oficina de turismo de Villacastín,,,,,Villacastín,Oficina de Turismo,Segovia,Información,,40225
+177,Oficina de Turismo de Ágreda,,,,,Ágreda,Oficina de Turismo,Soria,Información,Municipal,42004
+178,Oficina de Turismo de Almazán,,,,,Almazán,Oficina de Turismo,Soria,Información,Municipal,42020
+179,Oficina de Turismo de Berlanga de Duero,,,,,Berlanga de Duero,Oficina de Turismo,Soria,Información,Municipal,42035
+180,Oficina de Turismo del Burgo de Osma,,,,,El Burgo de Osma (Burgo de Osma- Ciudad de Osma),Oficina de Turismo,Soria,Información,Municipal,42043
+181,Oficina de Turismo de Garray,,,,,Garray,Oficina de Turismo,Soria,Información,Municipal,42094
+182,Oficina de Turismo de Medinaceli,,,,,Medinaceli,Oficina de Turismo,Soria,Información,Municipal,42113
+183,Oficina de Turismo de San Esteban de Gormaz,,,,,San Esteban de Gormaz,Oficina de Turismo,Soria,Información,Municipal,42162
+184,Oficina de Turismo de San Leonardo de Yagüe,,,,,San Leonardo de Yagüe,Oficina de Turismo,Soria,Información,Municipal,42164
+185,Oficina de Turismo de San Pedro Manrique,,,,,San Pedro Manrique,Oficina de Turismo,Soria,Información,Municipal,42165
+186,Centro de Recepción de Visitantes de Soria,,,,,Soria,Oficina de Turismo,Soria,Información,Municipal,42173
+187,Oficina de Información Turística de Soria,,,,,Soria,Oficina de Turismo,Soria,,Regional,42173
+188,Punto de Información Municipal de Soria,,,,,Soria,Oficina de Turismo,Soria,,Municipal,42173
+189,Oficina de Turismo de Vinuesa,,,,,Vinuesa,Oficina de Turismo,Soria,Información,Municipal,42215
+190,Oficina de Turismo de Alaejos,,,,,Alaejos,Oficina de Turismo,Valladolid,Información,Municipal,47004
+191,Oficina de Turismo de Alcazarén,,,,,Alcazarén,Oficina de Turismo,Valladolid,Información,Municipal,47005
+192,Oficina de Turismo de Becilla de Valderaduey,,,,,Becilla de Valderaduey,Oficina de Turismo,Valladolid,Información,Municipal,47015
+193,Oficina de Turismo de Cabezón de Pisuerga,,,,,Cabezón de Pisuerga,Oficina de Turismo,Valladolid,Información,Municipal,47027
+194,Oficina de Turismo de Campaspero,,,,,Campaspero,Oficina de Turismo,Valladolid,Información,Municipal,47030
+195,Oficina de Turismo de Castronuño,,,,,Castronuño,Oficina de Turismo,Valladolid,Información,Municipal,47045
+196,Oficina de Turismo de Cigales,,,,,Cigales,Oficina de Turismo,Valladolid,Información,Municipal,47050
+197,Oficina de Turismo de Cogeces del Monte,,,,,Cogeces del Monte,Oficina de Turismo,Valladolid,Información,Municipal,47054
+198,Oficina de Turismo de Cuenca de Campos,,,,,Cuenca de Campos,Oficina de Turismo,Valladolid,Información,Municipal,47058
+199,Oficina de Turismo de Curiel de Duero,,,,,Curiel de Duero,Oficina de Turismo,Valladolid,Información,Municipal,47059
+200,Oficina de Turismo de Fresno el Viejo,,,,,Fresno el Viejo,Oficina de Turismo,Valladolid,Información,Municipal,47065
+201,Oficina de Turismo de Fuensaldaña,,,,,Fuensaldaña,Oficina de Turismo,Valladolid,Información,Municipal,47066
+202,Oficina de Turismo de Íscar,,,,,Íscar,Oficina de Turismo,Valladolid,Información,Municipal,47075
+203,Oficina de Turismo de Laguna de Duero,,,,,Laguna de Duero,Oficina de Turismo,Valladolid,Información,Municipal,47076
+204,Oficina de Turismo de Mayorga,,,,,Mayorga,Oficina de Turismo,Valladolid,Información,Municipal,47084
+205,Oficina de Turismo de Medina del Campo,,,,,Medina del Campo,Oficina de Turismo,Valladolid,Información,Municipal,47085
+206,Oficina de Turismo de Medina de Rioseco,,,,,Medina de Rioseco,Oficina de Turismo,Valladolid,Información,Municipal,47086
+207,Oficina de Turismo de Mojados,,,,,Mojados,Oficina de Turismo,Valladolid,Información,Municipal,47090
+208,Oficina de Turismo de Montealegre,,,,,Montealegre de Campos,Oficina de Turismo,Valladolid,Información,Municipal,47092
+209,Oficina de Turismo de Mota del Marqués,,,,,Mota del Marqués,Oficina de Turismo,Valladolid,Información,Municipal,47097
+210,Oficina de Turismo de Mucientes,,,,,Mucientes,Oficina de Turismo,Valladolid,Información,Municipal,47098
+211,Oficina de Turismo de Nava del Rey,,,,,Nava del Rey,Oficina de Turismo,Valladolid,Información,Municipal,47101
+212,Oficina de Turismo de Olmedo,,,,,Olmedo,Oficina de Turismo,Valladolid,Información,Municipal,47104
+213,Oficina de Turismo de Pedrajas de San Esteban,,,,,Pedrajas de San Esteban (Municipio),,Valladolid,Información,,47112
+214,Oficina de Turismo de Peñafiel,,,,,Peñafiel,Oficina de Turismo,Valladolid,Información,Municipal,47114
+215,Oficina de Turismo de Portillo,,,,,Portillo,Oficina de Turismo,Valladolid,Información,Municipal,47122
+216,Oficina de Turismo de Quintanilla de Onésimo,,,,,Quintanilla de Onésimo,Oficina de Turismo,Valladolid,Información,Municipal,47129
+217,Oficina de Turismo de Rueda,,,,,Rueda,Oficina de Turismo,Valladolid,Información,Municipal,47139
+218,Oficina de Turismo de San Bernardo,,,,,San Bernardo (Valbuena de Duero),Oficina de Turismo,Valladolid,Información,Municipal,47179
+219,Oficina de Turismo de San Cebrián de Mazote,,,,,San Cebrián de Mazote,Oficina de Turismo,Valladolid,Información,Municipal,47142
+220,Oficina de Turismo de San Miguel del Pino,,,,,San Miguel del Pino,Oficina de Turismo,Valladolid,Información,Municipal,47146
+221,Oficina de Turismo de La Santa Espina,,,,,La Santa Espina (Castromonte),Oficina de Turismo,Valladolid,Información,Municipal,47043
+222,Oficina de turismo de La Seca,,,,,La Seca,Oficina de Turismo,Valladolid,Información,Municipal,47158
+223,Oficina de Turismo de Serrada,,,,,Serrada,Oficina de Turismo,Valladolid,Información,Municipal,47159
+224,Oficina de Turismo de Simancas,,,,,Simancas,Oficina de Turismo,Valladolid,Información,Municipal,47161
+225,Oficina de Turismo de Tiedra,,,,,Tiedra,Oficina de Turismo,Valladolid,Información,Municipal,47163
+226,Oficina de Turismo de Tordehumos,,,,,Tordehumos,Oficina de Turismo,Valladolid,Información,Municipal,47164
+227,Oficina de Turismo de Tordesillas,,,,,Tordesillas,Oficina de Turismo,Valladolid,Información,Municipal,47165
+228,Oficina de Turismo de Torrelobatón,,,,,Torrelobatón,Oficina de Turismo,Valladolid,Información,Municipal,47171
+229,Oficina de Turismo de Traspinedo,,,,,Traspinedo,Oficina de Turismo,Valladolid,Información,Municipal,47173
+230,Oficina de Turismo de Trigueros del Valle,,,,,Trigueros del Valle,Oficina de Turismo,Valladolid,Información,Municipal,47174
+231,Oficina de Turismo de Tudela de Duero,,,,,Tudela de Duero,Oficina de Turismo,Valladolid,Información,Municipal,47175
+232,Oficina de Turismo de Urones de Castroponce,,,,,Urones de Castroponce,Oficina de Turismo,Valladolid,Información,Municipal,47177
+233,Oficina de Turismo de Urueña,,,,,Urueña,Oficina de Turismo,Valladolid,Información,Municipal,47178
+234,Oficina de Turismo de Valbuena de Duero,,,,,Valbuena de Duero,Oficina de Turismo,Valladolid,Información,Municipal,47179
+235,Oficina de Turismo de Valdestillas,,,,,Valdestillas,Oficina de Turismo,Valladolid,Información,Municipal,47182
+236,Oficina de Información Turística de Valladolid,,,,,Valladolid,Oficina de Turismo,Valladolid,Información,Regional,47186
+237,Punto de Información Turística Palacio de Pimentel,,,,,Valladolid,Oficina de Turismo,Valladolid,,Provincial,47186
+238,Punto de Información Turística de San Benito,,,,,Valladolid,Oficina de Turismo,Valladolid,,Municipal,47186
+239,Punto de Información Turística. Estación de Trenes Valladolid- Campo Grande,,,,,Valladolid,Oficina de Turismo,Valladolid,,Municipal,47186
+240,Oficina de Turismo de Valoria la Buena,,,,,Valoria la Buena,Oficina de Turismo,Valladolid,Información,Municipal,47184
+241,Oficina de Turismo de Villabrágima,,,,,Villabrágima,Oficina de Turismo,Valladolid,Información,Municipal,47197
+242,Oficina de Turismo de Villagarcía de Campos,,,,,Villagarcía de Campos,Oficina de Turismo,Valladolid,Información,Municipal,47207
+243,Oficina de Turismo de Villalar de los Comuneros,,,,,Villalar de los Comuneros,Oficina de Turismo,Valladolid,Información,Municipal,47210
+244,Oficina de Turismo de Villalón de Campos,,,,,Villalón de Campos,Oficina de Turismo,Valladolid,Información,Municipal,47214
+245,Oficina de Turismo de Villanueva de Duero,,,,,Villanueva de Duero,Oficina de Turismo,Valladolid,Información,Municipal,47218
+246,Oficina de Turismo de Villanueva de la Condesa,,,,,Villanueva de la Condesa,Oficina de Turismo,Valladolid,Información,Municipal,47219
+247,Oficina de Turismo de Villaverde de Medina,,,,,Villaverde de Medina,Oficina de Turismo,Valladolid,Información,Municipal,47228
+248,Oficina de Turismo de Wamba,,,,,Wamba,Oficina de Turismo,Valladolid,Información,Municipal,47230
+249,Oficina de Turismo de Alcañices,,,,,Alcañices,Oficina de Turismo,Zamora,Información,Municipal,49003
+250,Oficina de Turismo de Benavente,,,,,Benavente,Oficina de Turismo,Zamora,Información,Municipal,49021
+251,Oficina de Turismo de Fermoselle,,,,,Fermoselle,Oficina de Turismo,Zamora,Información,Municipal,49065
+252,Oficina de Turismo de Puebla de Sanabria,,,,,Puebla de Sanabria,Oficina de Turismo,Zamora,Información,Municipal,49166
+253,Oficina de Turismo de El Puente de Sanabria,,,,,El Puente (Galende),Oficina de Turismo,Zamora,Información,Municipal,49085
+254,Oficina de Turismo de Rabanales,,,,,Rabanales,Oficina de Turismo,Zamora,Información,Municipal,49172
+255,Oficina de Turismo de Rihonor de Castilla,,,,,Rihonor de Castilla (Pedralba de la Pradería),Oficina de Turismo,Zamora,Información,Municipal,49145
+256,Oficina de Turismo de Rionegro del Puente,,,,,Rionegro del Puente,Oficina de Turismo,Zamora,Información,Municipal,49177
+257,Oficina de Turismo de Sampil (Ayto. de Robleda-Cervantes),,,,,Robleda-Cervantes (Municipio),Oficina de Turismo,Zamora,Información,Municipal,49179
+258,Oficina de Turismo de Toro,,,,,Toro,Oficina de Turismo,Zamora,Información,Municipal,49219
+259,Oficina de Turismo de Torregamones,,,,,Torregamones,Oficina de Turismo,Zamora,Información,Municipal,49221
+260,Oficina de Turismo de Villadepera,,,,,Villadepera,Oficina de Turismo,Zamora,Información,Municipal,49240
+261,Oficina de Turismo de Villardeciervos,,,,,Villardeciervos,Oficina de Turismo,Zamora,Información,Municipal,49262
+262,Oficina Municipal de Turismo de Zamora,,,,,Zamora,Oficina de Turismo,Zamora,Información,Municipal,49275
+263,Oficina de Información Turística de Zamora,,,,,Zamora,Oficina de Turismo,Zamora,,Regional,49275
